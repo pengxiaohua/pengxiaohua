@@ -6,7 +6,7 @@
 - 📫 How to contact me? pengxiaohua@outlook.com
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pengxiaohua&show_icons=true&theme=gotham" alt="Alex Peng" /> </p>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=pengxiaohua&theme=gotham" alt="Alex Peng" /> </p>
+<!-- <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=pengxiaohua&theme=chartreuse-dark" alt="Alex Peng" /> </p> -->
 <p align="center"> <img src="https://leetcard.jacoblin.cool/xiaohua-5?site=cn&theme=chartreuse&font=Alata&ext=heatmap" alt="Alex Peng" /> </p>
 
 #### 📋 Languages
